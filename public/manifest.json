@@ -1,11 +1,11 @@
 {
-	"name": "Camiseta Pokedex",
-	"short_name": "PokedexCamisa",
+	"name": "Camiseta Preta",
+	"short_name": "Camiseta Preta",
 	"start_url": "/",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#111827",
-	"description": "Personalidades estampadas — PWA demo",
+	"description": "Camiseta Preta - Clandestinos FC",
 	"icons": [
 		{
 			"src": "/icons/icon-192.png",
