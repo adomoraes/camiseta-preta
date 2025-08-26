@@ -1,0 +1,31 @@
+[
+	{
+		"id": 1,
+		"nome": "Alda Nova",
+		"foto": "/images/alda.jpg",
+		"bio": "Uma personalidade inspiradora conhecida por sua liderança criativa.",
+		"redes": {
+			"instagram": "https://instagram.com/aldanova",
+			"twitter": "https://twitter.com/aldanova"
+		}
+	},
+	{
+		"id": 2,
+		"nome": "Beto Silva",
+		"foto": "/images/beto.jpg",
+		"bio": "Ativista cultural e catalisador de projetos comunitários.",
+		"redes": {
+			"instagram": "https://instagram.com/betosilva"
+		}
+	},
+	{
+		"id": 3,
+		"nome": "Cida Rocha",
+		"foto": "/images/cida.jpg",
+		"bio": "Designer que mistura tradição e inovação em seus trabalhos.",
+		"redes": {
+			"instagram": "https://instagram.com/cidarocha",
+			"twitter": "https://twitter.com/cidarocha"
+		}
+	}
+]
