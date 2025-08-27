@@ -11,15 +11,17 @@ import Profile from "./pages/Profile"
 export default function App() {
 	return (
 		<Router>
-			<Header />
-			<main className='container flex-1 py-10'>
-				<Routes>
-					<Route path='/' element={<Home />} />
-					<Route path='/profile/:id' element={<Profile />} />
-					<Route path='/sobre' element={<About />} />
-				</Routes>
-			</main>
-			<Footer />
+			<div className='min-h-screen flex flex-col'>
+				<Header />
+				<main className='container flex-1 py-10'>
+					<Routes>
+						<Route path='/' element={<Home />} />
+						<Route path='/profile/:id' element={<Profile />} />
+						<Route path='/sobre' element={<About />} />
+					</Routes>
+				</main>
+				<Footer />
+			</div>
 		</Router>
 	)
 }
